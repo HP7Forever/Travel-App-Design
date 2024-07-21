@@ -1,2 +1,2 @@
 # Travel-App-Design
-Using Figma
+The UI of this app is design using Figma
